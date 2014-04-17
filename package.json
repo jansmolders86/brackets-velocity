@@ -1,7 +1,8 @@
 {
-    "name": "brackets.velocity",
-    "title": "brackets Velocity syntax",
-    "version": "1.0.0",
+    "name": "Brackets.velocity",
+    "title": "Brackets Velocity syntax",
+    "description": "Brackets Velocity syntax parser",
+    "version": "1.0.1",
     "author": "Jan Smolders <jansmodlers86@gmail.com>",
     "license": "MIT",
     "engines": {
