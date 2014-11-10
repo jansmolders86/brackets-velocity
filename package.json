@@ -2,7 +2,7 @@
     "name": "brackets.velocity",
     "title": "Brackets Velocity syntax",
     "description": "Brackets Velocity syntax parser",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "author": "Jan Smolders <jansmodlers86@gmail.com>",
     "license": "MIT",
     "engines": {

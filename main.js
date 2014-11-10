@@ -5,4 +5,5 @@ define(function (require, exports, module) {
 		html = LanguageManager.getLanguage("html");
 
     html.addFileExtension("vtl");
+    html.addFileExtension("vm");
 });
